@@ -4,8 +4,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/order-summary-component-solution-Ynk8c2xx2t)
-- Live Site URL: [Vercel](https://frontend-mentor-order-summary-component-lemon.vercel.app/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/profile-card-component-solution-2lOqcrCfQD)
+- Live Site URL: [Vercel](https://frontend-mentor-profile-card-component-gilt.vercel.app/)
 
 ## Author
 
